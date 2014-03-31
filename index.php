@@ -81,6 +81,23 @@
           <li><a href="javascript:void(0)" id="select-comments">Comments</a></li>
         </ul>
       </div>
+      <table class='table table-striped' style="margin-top:20px">
+        <tr>
+          <td>
+            <div style="float:left">
+              <img src="http://cdn.sstatic.net/stackoverflow/img/favicon.ico" style='display:block'>
+            </div>
+            <div style='margin-left:10px'>
+              <p style="font-size:20px;"><strong>hi!</strong></p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="http://cdn.sstatic.net/stackoverflow/img/favicon.ico"><p>hi!</p>
+          </td>
+        </tr>
+      </table>
     </div>
 
     <table class="col-md-offset-2">
